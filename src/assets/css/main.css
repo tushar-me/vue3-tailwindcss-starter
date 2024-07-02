@@ -1,5 +1,5 @@
 @import './base.css';
-
+@import '../scss/app.scss';
 
 
 .router-link-exact-active {
